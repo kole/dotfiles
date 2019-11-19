@@ -1,9 +1,7 @@
 call plug#begin('~/local/share/nvim/plugged')
 	Plug 'mxw/vim-jsx'
 	Plug 'pangloss/vim-javascript'
-	Plug 'relastle/bluewery.vim'
 	Plug 'flrnprz/plastic.vim'
-	Plug 'arcticicestudio/nord-vim'
 	Plug 'scrooloose/nerdtree'
 	Plug 'cloudhead/neovim-fuzzy'
 	Plug 'Xuyuanp/nerdtree-git-plugin'
